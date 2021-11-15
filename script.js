@@ -1,4 +1,4 @@
-alert("our website is only for laptop and desktop ,but you can use on phone by turning desktop mode in your browser")
+alert("our website is only for laptop and desktop ,but you can use on phone by turning desktop mode in your browser also rotate your device.")
 let taskbar = document.getElementsByClassName("taskbar")[0]
 let startmenu = document.getElementsByClassName("startmenu")[0]
 
